@@ -1,4 +1,4 @@
-package com.sus.reflectionTest1;
+package com.sus.reflectionTest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
