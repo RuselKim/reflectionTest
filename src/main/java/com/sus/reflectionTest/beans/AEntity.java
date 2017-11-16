@@ -1,4 +1,4 @@
-package com.sus.reflectionTest1.beans;
+package com.sus.reflectionTest.beans;
 
 
 public abstract class AEntity {

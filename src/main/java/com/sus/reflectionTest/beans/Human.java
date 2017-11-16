@@ -1,6 +1,6 @@
-package com.sus.reflectionTest1.beans;
+package com.sus.reflectionTest.beans;
 
-import com.sus.reflectionTest1.Pritable;
+import com.sus.reflectionTest.Pritable;
 
 public class Human extends AEntity {
 

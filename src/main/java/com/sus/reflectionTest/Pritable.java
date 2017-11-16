@@ -1,4 +1,4 @@
-package com.sus.reflectionTest1;
+package com.sus.reflectionTest;
 
 
 import java.lang.annotation.Retention;

@@ -1,15 +1,15 @@
-package com.sus.reflectionTest1.runer;
+package com.sus.reflectionTest.runer;
 
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 
-import com.sus.reflectionTest1.Pritable;
-import com.sus.reflectionTest1.beans.AEntity;
-import com.sus.reflectionTest1.beans.Car;
-import com.sus.reflectionTest1.beans.Human;
-import com.sus.reflectionTest1.beans.Shop;
+import com.sus.reflectionTest.Pritable;
+import com.sus.reflectionTest.beans.AEntity;
+import com.sus.reflectionTest.beans.Car;
+import com.sus.reflectionTest.beans.Human;
+import com.sus.reflectionTest.beans.Shop;
 
 
 
